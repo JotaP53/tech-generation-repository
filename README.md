@@ -1,1 +1,1 @@
-# tech-generation-repository
+# Tech Generatio Repository
